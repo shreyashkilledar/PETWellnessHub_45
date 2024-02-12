@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.carousalimage1 {
+  background-image:linear-gradient(to bottom, rgba(114, 97, 97, 0.071), rgba(242, 235, 235, 0.212)),
+    url("https://www.pixelstalk.net/wp-content/uploads/2016/04/Dog-wallpaper-HD-free-download.jpg");
+    background-size: cover;
+  background-position: center;
+}
+
+.carousalimage2 {
+  background-image:linear-gradient(to bottom, rgba(114, 97, 97, 0.071), rgba(133, 131, 131, 0.58)),
+    url("https://www.somerzby.com.au/wp-content/uploads/2022/10/How-big-of-a-kennel-to-buy.png");
+    background-size: cover;
+  background-position: center;
+}
+
+.carousalimage3 {
+  background-image:linear-gradient(to bottom, rgba(114, 97, 97, 0.071), rgba(242, 235, 235, 0.212)),
+    url("https://media.istockphoto.com/id/1280869072/photo/two-dogs-eating-together-from-their-food-bowls.jpg?b=1&s=170667a&w=0&k=20&c=bHFZqBVxWb7yzRVjLrbpgxQvddI-5q9QqS9uiraarAE=");
+    background-size: cover;
+    background-position: center;
+}
+
+.carousalimage4 {
+  background-image:linear-gradient(to bottom, rgba(114, 97, 97, 0.071), rgba(242, 235, 235, 0.212)),
+    url("https://media.istockphoto.com/id/1341957270/photo/food-and-accessories-for-the-dog-and-chihuahua-on-table.jpg?b=1&s=170667a&w=0&k=20&c=rKX9x0b4yAIz2AiJnjHd9BKRMPrgp8XE9KrHZsYnDhw=");
+    background-size: cover;
+    background-position: center;
+}
+.carousalimage5 {
+  background-image:linear-gradient(to bottom, rgba(114, 97, 97, 0.071), rgba(242, 235, 235, 0.212)),
+    url("https://i.pinimg.com/originals/90/fb/69/90fb69966848ff6121cd9caeead6012f.png");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.carousalimage6 {
+  background-image:linear-gradient(to bottom, rgba(114, 97, 97, 0.071), rgba(242, 235, 235, 0.212)),
+    url("https://www.doghealth.com/images/why_more_dog_breeds_than_cat.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.carousalimage7 {
+  background-image:linear-gradient(to bottom, rgba(114, 97, 97, 0.071), rgba(242, 235, 235, 0.212)),
+    url("https://static.vecteezy.com/system/resources/previews/005/447/139/original/veterinary-clinic-doctor-examining-vaccination-and-health-care-for-pets-like-dogs-and-cats-in-flat-cartoon-background-illustration-for-poster-or-banner-vector.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.formShadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.404);
+}
+
+.navbg {
+  background-color: rgba(164, 227, 248, 0.705);
+}
+
+.cartSummaryBg{
+  background-color: rgba(0, 0, 0, 0.136);
+}
